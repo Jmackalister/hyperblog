@@ -3,4 +3,4 @@
 # Jhonatan Duran tiene 24 años y nació en Colombia, 
 # viviendo en todo el mundo
 
-# Hoy hablaremos de su vida.
+# Hoy hablaremos de su vida y obra maestra.
