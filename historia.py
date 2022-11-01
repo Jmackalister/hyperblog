@@ -1,6 +1,7 @@
-# Esta es la historia de Jhonatan Duran
+# Esta es la historia de Freddy Vega
 
-# Jhonatan Duran tiene 24 años y nació en Colombia, 
-# viviendo en todo el mundo
+# Freddy Vega tiene 32 años y nació en Colombia
 
-# Hoy hablaremos de su vida y obra maestra.
+# Anita Platzi tiene 41 años y nació en Internet
+
+# Mañana nos enfocaremos en su vida laboral
